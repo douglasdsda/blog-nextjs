@@ -8,4 +8,13 @@ npm install remark remark-html
 yarn add remark remark-html
 
 npm install date-fns
-yarn add date-fns
+
+touch tsconfig.json
+npm install --save-dev typescript @types/react
+
+yarn prettier --write
+
+yarn prettier --write .
+npx npm prettier --write
+
+yarn add @material-ui/core
